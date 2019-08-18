@@ -14,10 +14,9 @@
 //= require jquery
 //= require materialize
 //= require activestorage
-//= require turbolinks
 //= require_tree .
 
-$(document).on('turbolinks:load',function () {
+$(document).ready(function () {
     $(".dropdown-trigger").dropdown();
     $('.sidenav').sidenav();
     $('#fade-out-target').fadeOut(2500);
