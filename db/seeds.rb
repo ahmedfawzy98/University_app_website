@@ -13,3 +13,7 @@ course2 = Course.create(short_name: 'CS112', name: 'Data Structures',
 course3 = Course.create(short_name: 'CS205', name: 'Intro to Linear Algebra',
                         description: 'An essential introduction to Linear Algebra
                                       and how it impacts the modern world of machine learning')
+
+student1 = Student.create(name: 'Ahmed', email: 'ahmed@example.com')
+student2 = Student.create(name: 'Omar', email: 'omar@example.com')
+student3 = Student.create(name: 'Mohamed', email: 'mohamed@example.com')
