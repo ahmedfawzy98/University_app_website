@@ -1,24 +1,15 @@
-# README
+# University-Website
+This is a simple university website as a hobby project aimed to learn Ruby-on-Rails, materialize and web development.\
+[University](https://university-app-ahmed.herokuapp.com/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Features
+* Courses listing
 
-* Ruby version
+## Built With
+[Ruby on Rails](https://rubyonrails.org/)\
+[Materialize](https://materializecss.com/)
 
-* System dependencies
+## Deployment
+[Heroku](https://heroku.com/)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
